@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: Factorial gRPC Server
+    env: python
+    region: oregon
+    plan: free
+    buildCommand: |
+      pip install -r requirements.txt
+      python -m grpc_tools.protoc -I./protos --python_out=. --grpc_python_out=. ./protos/factorial.proto
+    startCommand: python factorial_server.py
+    envVars:
+      - key: PORT
+        value: 50051  # Render puede sobrescribir este valor, pero lo dejamos como fallback.
+    healthCheckPath: /
+    autoDeploy: true
