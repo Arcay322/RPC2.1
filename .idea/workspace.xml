@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6ee685d-8654-45d1-b50b-7f308cf8578b" name="Changes" comment="" />
+    <list default="true" id="a6ee685d-8654-45d1-b50b-7f308cf8578b" name="Changes" comment="RPC2.1 V2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Arcay322"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Arcay322/RPC2.1.git",
+    "accountId": "39258992-0269-46f8-9b7b-84655d7f5b1c"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -41,6 +60,19 @@
       <option name="presentableId" value="Default" />
       <updated>1728457531221</updated>
     </task>
+    <task id="LOCAL-00001" summary="RPC2.1 V2">
+      <option name="closed" value="true" />
+      <created>1728457755973</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728457755973</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="RPC2.1 V2" />
+    <option name="LAST_COMMIT_MESSAGE" value="RPC2.1 V2" />
   </component>
 </project>
